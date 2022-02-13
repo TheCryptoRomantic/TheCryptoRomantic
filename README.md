@@ -9,4 +9,5 @@
 </div>
 
 <h3>Some projects i forked from my <a href="https://github.com/AHXPLAY">my old GitHub account</a>:</h3>
-<h3>My first solo Android pet-project - <a href="https://github.com/AHXPLAY" >Dosteen</a></h3>
+<h3>My first solo Android pet-project - <a href="https://github.com/TheCryptoRomantic/Dosteen_v2" >Dosteen</a></h3>
+<h3>University project - <a href="https://github.com/TheCryptoRomantic/ChessOnline" >chess for Android</a></h3>
