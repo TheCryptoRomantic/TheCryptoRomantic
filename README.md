@@ -1,8 +1,8 @@
 <img src = "https://github.com/TheCryptoRomantic/TheCryptoRomantic/blob/main/header.png?raw=true"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2369F700&duration=2000&center=true&width=1000&lines=My+languages)](https://git.io/typing-svg)
 
-<div>
-  <h3>My langs:</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"  height="50"/>
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"  height="50" />
